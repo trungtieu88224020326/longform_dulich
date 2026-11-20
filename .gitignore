@@ -1,0 +1,10 @@
+# Backups and temporary files
+*.bak
+*.bak*
+_ban-sao/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
